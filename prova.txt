@@ -1,0 +1,1 @@
+Això és una linea de text escrita amb el python.
